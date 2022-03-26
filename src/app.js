@@ -8,7 +8,7 @@ function element_selector(element) {
 element_selector('.one')
 
 
-//part 3 e
+//part 3 
 
 'use strict';
 
@@ -53,7 +53,7 @@ console.log(studentsScholarship)
 
 scholarship_list(students, 80)
 
-//part 4
+//part 4 ek
 
 'use strict';
 
