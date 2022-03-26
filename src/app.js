@@ -1,4 +1,4 @@
-//part2 e
+//part2 
 function element_selector(element) {
     const element_selected = document.querySelector(element)
     console.log(element_selected)
@@ -8,7 +8,7 @@ function element_selector(element) {
 element_selector('.one')
 
 
-//part 3
+//part 3 e
 
 'use strict';
 
