@@ -1,4 +1,4 @@
-//part2
+//part2 e
 function element_selector(element) {
     const element_selected = document.querySelector(element)
     console.log(element_selected)
