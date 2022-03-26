@@ -53,7 +53,7 @@ console.log(studentsScholarship)
 
 scholarship_list(students, 80)
 
-//part 4fsdfs
+//part 4
 
 'use strict';
 
